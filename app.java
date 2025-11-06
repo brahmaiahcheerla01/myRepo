@@ -14,7 +14,6 @@ class Main {
 //version 2
 
 public class MultiplyTwoNumbers {
-
     public static void main(String[] args) {
 
         float first = 1.5f;
@@ -25,3 +24,10 @@ public class MultiplyTwoNumbers {
         System.out.println("The product is: " + product);
     }
 }
+
+//new code by dev-1 without pulling
+
+public static void myMethod{
+}
+
+
